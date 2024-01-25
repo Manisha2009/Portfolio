@@ -26,6 +26,7 @@ nav ul {
 }
 
 nav ul li {
+    font-size: 20px;
     list-style: none;
     margin: 0 23px;
 }
@@ -37,7 +38,7 @@ nav ul li a {
 
 nav ul li a:hover {
     color: rgb(193, 193, 235);
-    font-size: 1.02rem;
+    font-size: 1.2rem;
 }
 
 main hr {
